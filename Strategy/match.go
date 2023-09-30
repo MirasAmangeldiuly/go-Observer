@@ -1,7 +1,7 @@
 package football
 
 import (
-	"D:/Desktop/Новая папка (3)/players"
+	"D:\Desktop\myproject\players"
 	"fmt"
 )
 
